@@ -30,7 +30,7 @@ WebGL has to be installed.
 ### Project state:
 incl. progress in percent
 
-100%
+20%
 
 ### Limitations:
 None
