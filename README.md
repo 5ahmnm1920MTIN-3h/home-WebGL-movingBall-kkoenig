@@ -25,12 +25,12 @@ Installation process, e.g. step by step instructions so that I can run the proje
 WebGL has to be installed.
 
 ### Third party material:
-(if used: Fonts, Sounds, Music, Graphics, Materials, Code, etc.) Sport Vektor erstellt von kreativkolors - de.freepik.com
+(if used: Fonts, Sounds, Music, Graphics, Materials, Code, etc.)
 
 ### Project state:
 incl. progress in percent
 
-20%
+100%
 
 ### Limitations:
 None
